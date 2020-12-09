@@ -317,49 +317,49 @@ Coronaviruses constitute the subfamily Orthocoronavirinae, in the family Coronav
 <div class="col-md-3 form-group">
 <div class="card stats bg-warning text-white text-center">
 <div class="card-header">Confirmed</div>
-<div class="card-body">18239</div>
+<div class="card-body">18322</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
 <div class="card stats bg-primary text-white text-center">
 <div class="card-header">Recovered</div>
-<div class="card-body">16981</div>
+<div class="card-body">17128</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
 <div class="card stats bg-danger text-white text-center">
 <div class="card-header">Deaths</div>
-<div class="card-body">296</div>
+<div class="card-body">297</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
 <div class="card stats bg-danger text-white text-center">
 <div class="card-header">Total Sampled</div>
-<div class="card-body">154396</div>
+<div class="card-body">155643</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
 <div class="card stats bg-primary text-white text-center">
 <div class="card-header">Positive Cases</div>
-<div class="card-body">18239</div>
+<div class="card-body">18322</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
 <div class="card stats bg-warning text-white text-center">
 <div class="card-header">Negative Cases</div>
-<div class="card-body">135318</div>
+<div class="card-body">136480</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
 <div class="card stats bg-warning text-white text-center">
 <div class="card-header">Rejected Samples</div>
-<div class="card-body">839</div>
+<div class="card-body">841</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
 <div class="card stats bg-success text-white text-center">
 <div class="card-header">Result Awaited</div>
-<div class="card-body">137</div>
+<div class="card-body">156</div>
 </div>
 </div>
 <div class="col-12 pt-10 text-center">* Statistics sourced from Department of Health, Chandigarh</div>
@@ -1155,7 +1155,7 @@ stdClass Object
 
         )
 
-    [lastRefreshed] =&gt; 2020-12-09T13:47:20.206Z
+    [lastRefreshed] =&gt; 2020-12-09T14:04:18.560Z
     [lastOriginUpdate] =&gt; 2020-12-09T02:30:00.000Z
 )
 
