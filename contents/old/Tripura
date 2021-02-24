@@ -17,7 +17,7 @@
 <link href="Style/style1.css" rel="stylesheet"/><link href="Style/jAccessibility.css" rel="stylesheet"/></head>
 <body>
 <form action="./" id="form1" method="post">
-<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="EKMMr9QPQQENNAJNvXDqcyJsN/Lz1K1KltX/Fnz4L8bBWHQLs/ZJ/1+/BxRtwUFSsSj0HhgA9QAee4JXe9d35FKbwgAKSrMEqNOlnIA7hX6x7pJIeLiBZSEs2MHMl1wtPTc8IVYpkkm3CFIJqe+b5hjYrDEFyA37QCZ+CZhjUGx5YI/YifxAnn+PcxZQ9hGj5K8ju8lnp5bf64euM814evI3OS4zd0ljlz1vZG0+2nUiePRQKp8vC2TO0Cvg/itY"/>
+<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="ozHgEMwcIgdBBTYUeK0l8nVYWNLaHJ+4O/kpndOcBl+WC1z4D6GV/EiFKxMs4r7Ks4nTrYmEbPNkeSc5UWhhM+1i3LBEfZ7SYX7Y3Xuwq6bo9LhWzel9hCRZ6jmtYt4UZBIf5VWO108K4eKZvkxT+1GqwdlhEluTmWcZeot2gb5DuZSLFqUoYT0tYL+0rWwJsh1OH0XtmQrzWIP6yTAJuLkTro8gp/NGHAkJnroFBe9fJ8fTDu+SByPQFSy58hES"/>
 <input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="CA0B0334"/>
 <header class="bg-light-black">
 <nav class="navbar bg-dark">
@@ -110,7 +110,7 @@
 <div class="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch">
 <div class="count-box py-5">
 <i class="fas fa-file-medical text-danger"></i>
-<span class="Count" id="lblActiceCases">45</span>
+<span class="Count" id="lblActiceCases">47</span>
 <p>Active COVID-19 Cases</p>
 </div>
 </div>
@@ -324,10 +324,10 @@ The disease causes respiratory illness (like the flu) with symptoms such as a co
 <div class="col-lg-12 mt-4 text-danger">
 <span>Stats are as on Date: </span>
 <strong>
-<span id="lblStatsAsPerDate">22 Feb 2021</span></strong><br/>
+<span id="lblStatsAsPerDate">23 Feb 2021</span></strong><br/>
 <span>You are Visitor Number: </span>
 <strong>
-<span id="lblVisitorNumber">528823</span></strong>
+<span id="lblVisitorNumber">528835</span></strong>
 </div>
 <div class="col-lg-12">
 <small class="text-white">All COVID-19 related Data &amp; Statistics on this site, are being being Provided &amp; Managed by the Health Department, Government of Tripura.</small><br/>
