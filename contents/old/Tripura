@@ -17,7 +17,7 @@
 <link href="Style/style1.css" rel="stylesheet"/><link href="Style/jAccessibility.css" rel="stylesheet"/></head>
 <body>
 <form action="./" id="form1" method="post">
-<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="4aR7YUn0MCIy5shdjljnhyXXnozwDeRTIMaGqQMZwn6CqYr3HSEQD52xM7NIH6ikEE6VfRYN7im51pe4gpMZcm/3YgNr1zkP5L63vHLY1refb8uKnrYtbuOMCEYTkeUD937jdeL8r7EYhQkbId60NhDu79pzQJHTbg8o9GFgd7+SwveWAOy79O2YOEvZYQdx5Rfi2EXKT6g5LwIkBlmK8aUvKKkyxAOiY/8hZV98Sbu+AyBOWAHmsruFOizhr7Hl"/>
+<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="vWHwvQe8prd5nDRTEgFbuex2Nfk4y3bZ7kU9HDVosYSAKprnpoY9TCifLCl6864DhKRviHhmIvldKqctUOwfMLekJm9YRFNtZJ3vzxGrERNwai+NApIedgqwoQhOCxXKxAliPeNFQ2Mz/O754OtX3l0Pgvv+F5nlYZkI7l/cDoaATeyiFKn1217YPCXU7lGYjTb9EB5bMsq74Q4KT/cmPo6PBK4YoATxDgh6xoe9WiI+yRJxmNIEC6kWML8AGU3B"/>
 <input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="CA0B0334"/>
 <header class="bg-light-black">
 <nav class="navbar bg-dark">
@@ -327,7 +327,7 @@ The disease causes respiratory illness (like the flu) with symptoms such as a co
 <span id="lblStatsAsPerDate">21 Apr 2021</span></strong><br/>
 <span>You are Visitor Number: </span>
 <strong>
-<span id="lblVisitorNumber">563897</span></strong>
+<span id="lblVisitorNumber">563912</span></strong>
 </div>
 <div class="col-lg-12">
 <small class="text-white">All COVID-19 related Data &amp; Statistics on this site, are being being Provided &amp; Managed by the Health Department, Government of Tripura.</small><br/>
